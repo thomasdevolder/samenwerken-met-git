@@ -1,4 +1,9 @@
 pull up, game
 wutf
 opsqufygyfikgqyzofqgfe
+<<<<<<< HEAD
 sjflhkqsyofiu
+=======
+typaids da?
+yo wtf
+>>>>>>> merge conflict test
